@@ -10,4 +10,4 @@ This application makes it possible to manage registrations, the payment of tuiti
 
 - Identifier: ESSEG
 
-- pass: 2021
+- pass: 2022
